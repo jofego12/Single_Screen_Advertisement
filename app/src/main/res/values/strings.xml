@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ABND_Project 1_Jonathan Fernandez Gomez</string>
+    <string name="coffeeShopName">Kitty Cat Coffee</string>
+    <string name="coffeeShopInfo">Are you looking for a confy and relaxing place? Would you like to have some spare time while enjoying the purrrrfect coffee? \n \n LUCKY YOU!!! \n \n WELCOME TO THE LAND OF CATS AND COFFEE :)</string>
+    <string name="coffeeShopTime">Mon - Sun \n 7:00AM - 10:00PM</string>
+    <string name="coffeeShopLocation">1007 Myrtle Avenue, V8R 2J5 \n Victoria, BC</string>
+</resources>
